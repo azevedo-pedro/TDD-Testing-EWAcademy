@@ -91,10 +91,10 @@ Using NYC (Istanbul) for code coverage:
     "test:cov": "NODE_ENV=test npx nyc npx mocha --exit --parallel **/**/*.test.js",
   },
   "nyc":{
-    "branches": 100,
-    "lines": 100,
-    "functions": 100,
-    "statements": 100,
+    "branches": 80,
+    "lines": 80,
+    "functions": 80,
+    "statements": 80,
     "checkCoverage": true,
     "exclude": [
         "src/repository/base/*.js",
