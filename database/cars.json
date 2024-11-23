@@ -1,0 +1,23 @@
+[
+    {
+        "id": "142bb3e7-ca94-42b8-ab86-a08b52466d32",
+        "name": "Prius",
+        "releaseYear": 2024,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "47d1a43d-abc4-437c-a903-0f9bb06037b2",
+        "name": "Volt",
+        "releaseYear": 2024,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "9f183873-9efb-4fc9-81d9-9069e1d77554",
+        "name": "Volt",
+        "releaseYear": 2024,
+        "available": true,
+        "gasAvailable": true
+    }
+]
